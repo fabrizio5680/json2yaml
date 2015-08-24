@@ -1,6 +1,6 @@
 {
   "author": "AJ ONeal <coolaj86@gmail.com> (http://coolaj86.com)",
-  "name": "json2yaml",
+  "name": "json2yaml-ver0n",
   "description": "A commandline utility to convert JSON to YAML / YML",
   "keywords": ["yml", "yaml", "json", "cli", "util"],
   "version": "1.0.3",
